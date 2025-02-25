@@ -51,7 +51,7 @@ git clone https://github.com/Elabs-llc/CodeAlpha_Music_Recomendation_System.git
 cd Music_Recommendation_System
 ```
 
-### 2️⃣  Clone the Repository
+### 2️⃣  Install necessary modules
 
 ```sh
 pip install torch pandas scikit-learn jupyter
