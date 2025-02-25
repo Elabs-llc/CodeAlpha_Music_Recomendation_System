@@ -47,8 +47,8 @@ This project uses a dataset containing **user interactions with songs**.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Music-Recommendation-System.git
-cd Music-Recommendation-System
+git clone https://github.com/Elabs-llc/CodeAlpha_Music_Recomendation_System.git
+cd Music_Recommendation_System
 ```
 
 ### 2️⃣  Clone the Repository
